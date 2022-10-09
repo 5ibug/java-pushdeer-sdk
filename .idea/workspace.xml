@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f98ffbd1-69ce-4928-98f6-2302c0a0905d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/_5ibug/DeerPush.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/_5ibug/DeerPush.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/_5ibug/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/net/_5ibug/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/_5ibug/utils/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/_5ibug/utils/HttpUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665215597579</updated>
       <workItem from="1665215598942" duration="3724000" />
-      <workItem from="1665280246017" duration="963000" />
+      <workItem from="1665280246017" duration="1032000" />
     </task>
     <servers />
   </component>
