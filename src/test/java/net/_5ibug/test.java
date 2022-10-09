@@ -1,4 +1,4 @@
-package org._5ibug;
+package net._5ibug;
 
 public class test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org._5ibug.utils;
+package net._5ibug.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

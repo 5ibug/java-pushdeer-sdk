@@ -1,6 +1,6 @@
-package org._5ibug;
+package net._5ibug;
 
-import org._5ibug.utils.HttpUtil;
+import net._5ibug.utils.HttpUtil;
 
 public class DeerPush {
     /* api地址 非必须，默认为官方地址*/
